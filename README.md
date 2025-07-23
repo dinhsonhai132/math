@@ -1,2 +1,1 @@
 # math
-Mercury math test
