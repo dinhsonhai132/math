@@ -1,0 +1,4 @@
+let add(x, y) = x + y
+let minus(x, y) = x - y
+let div(x, y) = x / y
+let time(x, y) = x * x
